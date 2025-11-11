@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 <p align="center">
-  <a href="https://www.youtube.com/@YourChannelName" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
-         alt="YouTube" width="130"/>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@%EC%9D%B4%EB%AA%85%EC%A7%84-mmmmz" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://yourblog.tistory.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Tistory_logo_%282021%29.svg"
-         alt="Tistory" width="130"/>
+
+  <!-- Tistory -->
+  <a href="https://marin0806.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
   </a>
 </p>
 
