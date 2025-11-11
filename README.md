@@ -8,7 +8,7 @@
 
   <!-- Tistory -->
   <a href="https://marin0806.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
+    <img src="https://img.shields.io/badge/Tistory-F37C20?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
   </a>
 </p>
 
