@@ -1,7 +1,6 @@
-# 안녕하세요 👋
-# 개발자 이명진입니다.
+# 안녕하세요, 개발자 이명진입니다 👋
 
-## Repository
+# Repository
 ### 1. PC - Kiosk : Python 기반 PC방 키오스크
 ### 2. DICE-RPG : C 기반 2D 콘솔 게임
 ### 3. Chat : C, TCP/IP 기반 멀티 채팅 프로그램
