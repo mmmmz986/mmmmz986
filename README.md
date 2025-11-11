@@ -3,6 +3,11 @@
 
 [![YouTube](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)](https://www.youtube.com/@YourChannelName)
 
+<a href="https://www.youtube.com/@YourChannelName" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
+       alt="YouTube" width="120"/>
+</a>
+
 <!--
 **mmmmz986/mmmmz986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
