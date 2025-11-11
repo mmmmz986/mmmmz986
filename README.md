@@ -1,17 +1,16 @@
 ## Hi there 👋
+
 <p align="center">
   <a href="https://www.youtube.com/@YourChannelName" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
          alt="YouTube" width="130"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://yourblog.tistory.com" target="_blank">
-    <img src="https://tistory4.daumcdn.net/tistory/0/RiylBpRdhb9A8aTdxoEj2q/logo_tistory_2021.png" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Tistory_logo_%282021%29.svg"
          alt="Tistory" width="130"/>
   </a>
 </p>
-
-
 
 <!--
 **mmmmz986/mmmmz986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
