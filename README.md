@@ -2,18 +2,15 @@
 <p align="center">
   <a href="https://www.youtube.com/@YourChannelName" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
-         alt="YouTube" width="120"/>
+         alt="YouTube" width="130"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://yourblog.tistory.com" target="_blank">
-    <img src="https://t1.daumcdn.net/tistory_admin/static/top/favicon.ico" 
-         alt="Tistory" width="45"/>
+    <img src="https://tistory4.daumcdn.net/tistory/0/RiylBpRdhb9A8aTdxoEj2q/logo_tistory_2021.png" 
+         alt="Tistory" width="130"/>
   </a>
 </p>
 
-<p align="center">
-  📺 YouTube &nbsp;|&nbsp; ✍️ Tistory Blog
-</p>
 
 
 <!--
