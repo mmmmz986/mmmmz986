@@ -1,17 +1,13 @@
 ## Hi there 👋
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YourChannelName)
-
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)](https://www.youtube.com/@YourChannelName)
-
-<a href="https://www.youtube.com/@YourChannelName" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
-       alt="YouTube" width="120"/>
-</a>
-
 <p align="center">
   <a href="https://www.youtube.com/@YourChannelName" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
-         alt="YouTube" width="150"/>
+         alt="YouTube" width="130"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://yourblog.tistory.com" target="_blank">
+    <img src="https://t1.daumcdn.net/tistory_admin/static/top/favicon.ico" 
+         alt="Tistory" width="55"/>
   </a>
 </p>
 
