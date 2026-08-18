@@ -1,5 +1,4 @@
-# 안녕하세요, 
-# 개발자 이명진입니다 👋
+# 안녕하세요
 
 # Repository Guide
 ### 0. ~ 7. : LMS 7차 TEAM & SINGLE PROJECT
